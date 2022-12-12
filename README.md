@@ -9,6 +9,6 @@
  
  This game is great challange🔥 for your memory. So play and have a fun🖐️
  
- ## Simon Game
+ ## Simon Game??
  If you have no idea about this game. Please have a look to this short video.
  Link : https://youtu.be/1Yqj76Q4jJ4
