@@ -3,7 +3,7 @@
 ## Link: https://ishitapathak.github.io/Simon_Game/
 
 ### How it Works??
- Firstly you have to press any key on the keyboard to start the game.
+ Firstly you have to press any key on the keyboard(use desktop/laptop) to start the game.
  There are four buttons which produces different sounds. For level-1 you will get the sound from one of the buttons.
  Press the button in the same order to go to the next level and with each round, number of button to press is increases by 1
  
