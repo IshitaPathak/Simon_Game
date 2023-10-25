@@ -12,8 +12,9 @@
  ## Simon Game??
  If you have no idea about this game. Please have a look at this [short video](https://youtu.be/1Yqj76Q4jJ4)
 
+---------------------
 
-## Contributing Guidelines for Hacktoberfest
+# Contributing Guidelines for Hacktoberfest
 
 Welcome to open source project! Before you get started, please read through the following guidelines to ensure a smooth and positive contribution process.
 
