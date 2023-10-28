@@ -1,6 +1,6 @@
 # Simon_Game
 
-## Link: https://ishitapathak.github.io/Simon_Game/
+## [Website Link](https://ishitapathak.github.io/Simon_Game/)
 
 ### How it Works??
  Firstly you have to press any key on the keyboard(use desktop/laptop) to start the game.
